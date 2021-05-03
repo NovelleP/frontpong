@@ -1,2 +1,2 @@
 # frontpong
-Pong game developed using Pyglet
+Game pong-like for 1 player
